@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Gaddala Sravani</h1>
-<h3 align="center">Software Engineering Intern @ Hartford | AI & Full Stack Developer | Problem Solver</h3>
+<h3 align="center"> AI & Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
 Passionate about building intelligent and scalable software solutions using Artificial Intelligence, Full Stack Development, and Cloud Technologies.
