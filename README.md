@@ -1,23 +1,15 @@
-
-
-<!--
-**Sravanigaddala/Sravanigaddala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Gaddala Sravani</h1>
-<h3 align="center"> AI & Full Stack Developer | Problem Solver</h3>
+
+<h3 align="center">
+<!-- Software Engineering Intern @ Hartford Global Services |  -->
+  AI & Full Stack Developer | Problem Solver
+</h3>
 
 <p align="center">
-Passionate about building intelligent and scalable software solutions using Artificial Intelligence, Full Stack Development, and Cloud Technologies.
-I enjoy transforming ideas into impactful applications that solve real-world problems and continuously learning new technologies.
+Passionate about building intelligent software using Artificial Intelligence, Full Stack Development, and Cloud Technologies.<br>
+I enjoy solving real-world problems through scalable, innovative, and impactful software solutions.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sravanigaddala&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
