@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Sravanigaddala/Sravanigaddala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Gaddala Sravani</h1>
+<h3 align="center">Software Engineering Intern @ Hartford | AI & Full Stack Developer | Problem Solver</h3>
+
+<p align="center">
+Passionate about building intelligent and scalable software solutions using Artificial Intelligence, Full Stack Development, and Cloud Technologies.
+I enjoy transforming ideas into impactful applications that solve real-world problems and continuously learning new technologies.
+</p>
