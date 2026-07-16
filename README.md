@@ -158,6 +158,12 @@ I enjoy solving real-world problems through scalable, innovative, and impactful 
 
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sravanigaddala/Sravanigaddala/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+</p>
+
 ## 📈 Contribution Graph
 
 [![Sravani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sravanigaddala&theme=tokyo-night)](https://github.com/Sravanigaddala)
